@@ -26,4 +26,4 @@ match priority:
         print("Invalid priority level entered. Please enter high, medium, or low.")
 
 # Provide a customized reminder
-print()
+print(reminder)
